@@ -1,4 +1,4 @@
-# FakeLoginEducacional
+# FakeLoginTkinter
 
 A Python tool with a graphical interface (Tkinter) for simulating fake login screens to study phishing techniques, built for educational purposes.
 
