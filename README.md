@@ -21,11 +21,11 @@ This project is designed to help cybersecurity students understand how phishing 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FakeLogin.git
+   git clone https://github.com/yourusername/FakeLoginTkinter.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd FakeLogin
+   cd FakeLoginTkinter
    ```
 
 ## Usage
